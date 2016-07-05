@@ -15,6 +15,7 @@
         [-] edu
             [+] harvard
             [+] stanford
+            [+]wust
         [-] uk
             [-] ac
                 [+] strath
